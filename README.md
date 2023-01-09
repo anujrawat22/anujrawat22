@@ -15,3 +15,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anujrawat22&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
