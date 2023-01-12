@@ -1,12 +1,14 @@
 ## Hey 👋, I'm Anuj Rawat!  
   
-
-<a href="https://www.linkedin.com/in/anuj-rawat-abb163219/">
+<div style="display: flex , justify-content : center">
+  <a href="https://www.linkedin.com/in/anuj-rawat-abb163219/">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/Ankeshkewat" >
+<a href="https://github.com/anujrawat22" >
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white target="_blank" alt=github style="margin-bottom: 5px;" />
-</a>  
+</a> 
+  </div>
+ 
   
 ### Glad to see you here!  
 I'm an aspiring backend developer with the ability to collaborate well.
