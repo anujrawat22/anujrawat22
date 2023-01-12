@@ -43,7 +43,7 @@ Hands-on experience in developing servers using  Node.js, Express.js, and Mongoo
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankeshkewat&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://33.media.tumblr.com/1e568035178b1f4f13559a7068172319/tumblr_ninugsLO3F1tgyrb1o1_500.gif" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
