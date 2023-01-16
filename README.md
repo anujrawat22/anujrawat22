@@ -1,9 +1,9 @@
-<div align="center">
+
   ## Hey 👋, I'm Anuj Rawat! 
-</div>
+
  
   
-<div style="display: flex , justify-content : center">
+<div style="display: flex , align : "center">
   <a href="https://www.linkedin.com/in/anuj-rawat-abb163219/">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
