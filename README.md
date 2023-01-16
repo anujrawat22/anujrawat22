@@ -1,4 +1,7 @@
-## Hey 👋, I'm Anuj Rawat!  
+<div align="center">
+  ## Hey 👋, I'm Anuj Rawat! 
+</div>
+ 
   
 <div style="display: flex , justify-content : center">
   <a href="https://www.linkedin.com/in/anuj-rawat-abb163219/">
