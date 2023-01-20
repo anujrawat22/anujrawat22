@@ -65,8 +65,8 @@ Hands-on experience in developing servers using  Node.js, Express.js, and Mongoo
 
 <br/>  
 
- 
-<div align="center">
  ![Profile views counter](https://komarev.com/ghpvc/?username=anujrawat22&&style=flat-square) 
+<div align="center">
+ 
  [![trophy](https://github-profile-trophy.vercel.app/?username=anujrawat22)](https://github.com/anujrawat22/github-profile-trophy)</div>
 
