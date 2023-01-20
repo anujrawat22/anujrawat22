@@ -41,11 +41,11 @@ Hands-on experience in developing servers using  Node.js, Express.js, and Mongoo
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anujrawat22&&show_icons=true&theme=light" align="left" style="width: 100%" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anujrawat22&&show_icons=true&theme=dark" align="center" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://33.media.tumblr.com/1e568035178b1f4f13559a7068172319/tumblr_ninugsLO3F1tgyrb1o1_500.gif" align="left" style="width: 100%" />
+<img src="https://33.media.tumblr.com/1e568035178b1f4f13559a7068172319/tumblr_ninugsLO3F1tgyrb1o1_500.gif" align="center" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -55,7 +55,7 @@ Hands-on experience in developing servers using  Node.js, Express.js, and Mongoo
 
 </td><td valign="top" width="50%">
 
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="left" style="width: 100%" />
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="center" style="width: 100%" />
 </td></tr></table>  
 
 
@@ -66,5 +66,5 @@ Hands-on experience in developing servers using  Node.js, Express.js, and Mongoo
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=anujrawat22&&style=flat-square)  
-![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=anujrawat22&show_icons=true&theme=transparent)
+![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=anujrawat22&show_icons=true&theme=dark)
 [![trophy](https://github-profile-trophy.vercel.app/?username=anujrawat22)](https://github.com/anujrawat22/github-profile-trophy)
