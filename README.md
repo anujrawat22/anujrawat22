@@ -20,7 +20,7 @@ Hands-on experience in developing servers using  Node.js, Express.js, and Mongoo
 - 🌱 I’m currently learning more about Node.js and MongoDB  
 - ❓ Ask me about anything related to the NEM stack and related technologies  
 - 👨‍💻 All of my projects are available at <a href='https://anujrawat22.github.io/' target="_blank">anujrawat22.github.io/</a>
-- 🎗️ Contact me: anuj22rawat20@gmail.com   <a target="_blank" href="https://github.com/anujrawat22">LinkedIn</a> <a target="_blank" href="https://github.com/anujrawat22" >Github </a>
+- 🎗️ Contact me: anuj22rawat20@gmail.com   
 
   
 ## Languages and Tools  
