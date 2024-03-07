@@ -1,22 +1,16 @@
 
  <h1  align = "center">Hey 👋, I'm Anuj Rawat! </h1> 
 
- 
-  
-<div display="flex" , align="center">
-  <a href="https://www.linkedin.com/in/anuj-rawat-abb163219/">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
 
-  </div>
 
  ### Contact Me
 
- <div display="flex" , align="center">
-  <a href="https://www.linkedin.com/in/anuj-rawat-abb163219/">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-  
+<p align="center">
+<a href="https://www.linkedin.com/in/anuj-rawat-abb163219/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/40/null/linkedin.png" alt="bhav1kmaru" height="40" width="40" /></a>
+ <a href="https://anujrawat22.github.io/portfolio" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="portfolio" />
+    </a>
+</p>
 ### Glad to see you here!  
 An aspiring Fullstack developer with the ability to collaborate well.
 Hands-on experience in developing full-stack web applications using React.js, Redux, Node.js, Express.js, PostgreSQL, MongoDB, AWS , DigitalOcean, and many more technologies...
