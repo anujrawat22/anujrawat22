@@ -11,11 +11,11 @@
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="portfolio" />
     </a>
 </p>
+
 ### Glad to see you here!  
 An aspiring Fullstack developer with the ability to collaborate well.
 Hands-on experience in developing full-stack web applications using React.js, Redux, Node.js, Express.js, PostgreSQL, MongoDB, AWS , DigitalOcean, and many more technologies...
-  
-- 🌱 I’m currently learning more about Node.js and MongoDB  
+   
 - ❓ Ask me about anything related to the MERN stack and related technologies  
 - 👨‍💻 All of my projects are available at <a href='https://anujrawat22.github.io/portfolio' target="_blank">anujrawat22.github.io/</a>
 - 🎗️ Contact me: anuj22rawat20@gmail.com   
